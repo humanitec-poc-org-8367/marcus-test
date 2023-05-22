@@ -1,0 +1,7 @@
+site_name: 'marcus-test Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
